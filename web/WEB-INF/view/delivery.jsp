@@ -42,6 +42,6 @@
                 <li class="breadcrumb-item"><fmt:message key="get.step.third"/></li>
             </ol>
         </div>
-</div>
+    </span>
 </div>
 <%@include file="../template/footer.jsp"%>
