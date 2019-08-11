@@ -1,4 +1,3 @@
-<%@ taglib prefix="fmt" uri="http://java.sun.com/jstl/fmt" %>
 <%@include file="../template/header.jsp" %>
 <script>
     document.title = "<fmt:message key="title.delivery"/>";
